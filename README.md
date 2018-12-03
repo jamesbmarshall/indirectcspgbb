@@ -4,4 +4,4 @@ In this repo, you will find all the materials required to understand and perform
 
 ## Roadmap
 
-This repo will be updated to include the GTM version of the 'good-better-best' assessments and guidance. Work is underway to complete this. There will be a major revision twice a year, with this repo being the authoritative partner-facing source of content.
+This repo will be updated to include the GTM version of the 'good-better-best' assessment and guidance. Work is underway to complete this. There will be a major revision twice a year, with this repo being the authoritative partner-facing source of content.
