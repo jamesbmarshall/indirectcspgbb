@@ -1,6 +1,6 @@
-# FY19 Indirect CSP Services Guides Bill of Materials
+# FY19 Modern Indirect Provider Assessment Bill of Materials
 
-In this repo, you will find all the materials required to understand and perform a 'good-better-best' (GBB) baseline assessment of your indirect provider business.
+In this repo, you will find all the materials required to understand and perform a Modern Indirect Provider (MIPA), formerly 'good, better, best', baseline of your indirect provider business.
 
 ## Roadmap
 
